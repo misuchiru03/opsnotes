@@ -1,0 +1,5 @@
+Jun 24 16:13:52		pink	 gh0st [1516]: vim bash_log.conf  [0]
+Jun 24 16:13:56		pink	 gh0st [1516]: mv bash_log.conf opsnotes.conf [0]
+Jun 24 16:14:24		pink	 gh0st [1516]: vim opsnotes.conf [0]
+Jun 24 16:14:31		pink	 gh0st [1516]: cat examples/ [1]
+Jun 24 16:14:31		pink	 gh0st [1516]: ls [0]
